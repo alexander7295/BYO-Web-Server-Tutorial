@@ -1,0 +1,25 @@
+{
+  "name": "byowebserver",
+  "version": "1.0.0",
+  "description": "Following the tutorial \"Build Your Own Web Server From Scratch In Node.js\" by James Smith (js@build-your-own.org).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexander7295/BYO-Web-Server-Tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/alexander7295/BYO-Web-Server-Tutorial/issues"
+  },
+  "homepage": "https://github.com/alexander7295/BYO-Web-Server-Tutorial#readme",
+  "devDependencies": {
+    "@types/node": "^25.6.2",
+    "typescript": "^6.0.3"
+  }
+}
